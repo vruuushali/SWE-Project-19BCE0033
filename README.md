@@ -1,2 +1,2 @@
-# Login-Auth-using-JWT
-Basic login and registration boilerplate code. 
+# SOFTWARE ENGINEERING PROJECT
+Integrated ML Model for testing code accuracy
