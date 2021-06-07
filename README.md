@@ -1,2 +1,2 @@
 # SOFTWARE ENGINEERING PROJECT
-Integrated ML Model for testing code accuracy
+Bug Detection Using Neural Networks- An Integrated ML Model for testing code accuracy
